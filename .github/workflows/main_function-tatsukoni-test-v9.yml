@@ -75,4 +75,3 @@ jobs:
           app-name: 'function-tatsukoni-test-v9'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          
