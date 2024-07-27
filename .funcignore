@@ -9,3 +9,4 @@ local.settings.json
 test
 test.txt
 tsconfig.json
+*.test.ts
